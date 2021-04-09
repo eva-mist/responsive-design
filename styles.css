@@ -248,7 +248,7 @@ div.snapshot-box-content {
 }
 
 div.box1 {
-    flex: 100%;
+    flex: 33.3%;
     background: #fff;
     padding: 10px 20px;
     width: 220px;
@@ -259,7 +259,7 @@ div.box1 {
 }
 
 div.box3 {
-    flex: 100%;
+    flex: 33.3%;
     background: #304353;
     padding: 10px 20px;
     width: 220px;
@@ -319,7 +319,7 @@ div.box1 h5 {
     }
     div.box1,
     div.box3 {
-        flex: 33.3%
+        flex: 100%
     }
 }
 
